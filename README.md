@@ -1,7 +1,7 @@
 Hello, I'm Zander Preston, aka lastingParadox.
 -----------------------
 - I am a UCF Computational Physics Major, second year.
-- I'm learning various programming languages both as a hobby and for eventual research in computational physics.
+- I'm learning various programming languages both as a hobby and for eventual research in computer science.
 - This is my first year in github, so expect a lot more projects to be made!
 
 <!---
