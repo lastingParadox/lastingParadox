@@ -9,11 +9,13 @@ I am a Junior Computer Science student at the University of Central Florida. I'v
 *   🌍  I'm based in Orlando
 *   🖥️  See my portfolio at [this website, created by me](http://https://lastingparadox.github.io/)
 *   ✉️  You can contact me at [zanpres@gmail.com](mailto:zanpres@gmail.com)
-*   🚀  I'm currently working on [a Discord bot that utilizes MongoDB and Discord's REST API](http://github.com/lastingParadox/vortox-bot)
+*   🚀  I'm currently working on a few projects, including:
+    * [A Discord bot that utilizes MongoDB and Discord's REST API](http://github.com/lastingParadox/vortox-bot)
+    * A social media website using Django and MySQL that fuses the look of MySpace with modern posts
 *   🧠  I'm learning Django, Flask, and other Python web frameworks
 *   ⚡  I'm best friends with Batman himself!
 
-### Skills 
+### Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -27,10 +29,10 @@ I am a Junior Computer Science student at the University of Central Florida. I'v
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
-                    
+
 
 ### Socials
-                  
+
 <p align="left"> <a href="https://discord.com/users/148889863637172224" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/lastingParadox" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/zander-preston-95725a225" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
