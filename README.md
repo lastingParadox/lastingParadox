@@ -12,7 +12,7 @@ I am a Junior Computer Science student at the University of Central Florida. I'v
 *   🚀  I'm currently working on a few projects, including:
     * [A Discord bot that utilizes MongoDB and Discord's REST API](http://github.com/lastingParadox/vortox-bot)
     * A social media website using Django and MySQL that fuses the look of MySpace with modern posts
-*   🧠  I'm learning Django, Flask, and other Python web frameworks
+*   🧠  I'm learning Haskell and Project Management
 *   ⚡  I'm best friends with Batman himself!
 
 ### Skills
