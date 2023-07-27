@@ -34,9 +34,3 @@ I am a Junior Computer Science student at the University of Central Florida. I'v
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/148889863637172224" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/lastingParadox" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/zander-preston-95725a225" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/lastingParadox"><img src="https://github-readme-stats.vercel.app/api?username=lastingParadox&show_icons=true&hide=issues,contribs&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&show_icons=true" alt="lastingParadox's GitHub stats" /></a>
