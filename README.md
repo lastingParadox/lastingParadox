@@ -7,7 +7,7 @@ Computer Science Student and Web Dev
 I am a Junior Computer Science student at the University of Central Florida. I've been getting my feet wet in terms of software creation ever since I switched from Physics. As of recent, my interests lie in back end web development, particularly with databases.
 
 *   🌍  I'm based in Orlando
-*   🖥️  See my portfolio at [this website, created by me](http://https://lastingparadox.github.io/)
+*   🖥️  See my portfolio at [this website, created by me](https://lastingparadox.github.io/)
 *   ✉️  You can contact me at [zanpres@gmail.com](mailto:zanpres@gmail.com)
 *   🚀  I'm currently working on a few projects, including:
     * [A Discord bot that utilizes MongoDB and Discord's REST API](http://github.com/lastingParadox/vortox-bot)
