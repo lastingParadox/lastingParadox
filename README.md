@@ -4,7 +4,7 @@ Hello, I'm Zander Preston, Aka, lastingParadox
 Computer Science Student and Web Dev
 ------------------------------------
 
-I am a Junior Computer Science student at the University of Central Florida. I've been getting my feet wet in terms of software creation ever since I switched from Physics. As of recent, my interests lie in back end web development, particularly with databases.
+I am a Senior Computer Science student at the University of Central Florida. I've been getting my feet wet in terms of software creation ever since I switched from Physics. As of recent, my interests lie in back end web development, particularly with databases.
 
 *   🌍  I'm based in Orlando
 *   🖥️  See my portfolio at [this website, created by me](https://lastingparadox.github.io/)
