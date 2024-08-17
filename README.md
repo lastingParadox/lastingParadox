@@ -1,12 +1,12 @@
 Hello, I'm Zander Preston, Aka, lastingParadox
 ===============================
 
-Computer Science Student and Web Dev
+Junior Web Software Engineer
 ------------------------------------
 
-I am a Senior Computer Science student at the University of Central Florida. I've been getting my feet wet in terms of software creation ever since I switched from Physics. As of recent, my interests lie in back end web development, particularly with databases.
+I am a Junior Software Engineer at StoneX. I've been getting my feet wet in terms of software creation ever since I switched from Physics. As of recent, my interests lie in front end web development, particularly with React and UI/UX development.
 
-*   🌍  I'm based in Orlando
+*   🌍  I'm based in Central Florida
 *   🖥️  See my portfolio at [this website, created by me](https://lastingparadox.github.io/)
 *   ✉️  You can contact me at [zanpres@gmail.com](mailto:zanpres@gmail.com)
 *   🚀  I'm currently working on a few projects, including:
