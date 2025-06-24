@@ -1,10 +1,10 @@
 Hello, I'm Zander Preston, Aka, lastingParadox
 ===============================
 
-Junior Web Software Engineer
+Web Software Engineer
 ------------------------------------
 
-I am a Junior Software Engineer at StoneX. I've been getting my feet wet in terms of software creation ever since I switched from Physics. As of recent, my interests lie in front end web development, particularly with React and UI/UX development.
+I am a Staff Software Engineer at StoneX. I've been getting my feet wet in terms of software creation ever since I switched from Physics. As of recent, my interests lie in front end web development, particularly with React and UI/UX development.
 
 *   🌍  I'm based in Central Florida
 *   🖥️  See my portfolio at [this website, created by me](https://lastingparadox.github.io/)
